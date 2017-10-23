@@ -1,6 +1,6 @@
 # dockersuma
-Servicio web service java implementado con servidor payara sobre contenedor docker
-prerequisito_ docker instalado en sistema operativo core unix (linux - mac)
+Servicio web java implementado con servidor payara sobre contenedor docker
+prerequisito: docker instalado en sistema operativo core unix (linux - mac)
 Pasos: 
 
 1- Ejecutar star.sh, Este descargara imagen desde Docker Hub docker ->  avalon986/dockerwssuma_mfqm
